@@ -28,8 +28,8 @@ This is a game in a 2-dimensional, grid-based world, in which the protagonist's 
 ## How to Play
 
 1. **Installation:**
-    - Clone the repository: `git clone git@gitlab.kuleuven.be:groep-t/courses/apt/2324/team-c1-fa.git`
-    - Navigate to the Game folder in the project directory: `cd team-c1-fa/Game`
+    - Clone the repository: `git clone git@github.com:HassinJalap/MysticMaze.git`
+    - Navigate to the Game folder in the project directory: `cd Game`
 
 2. **Qt Creator:**
     - Make sure you have all the required dependencies installed with Qt Creator.
