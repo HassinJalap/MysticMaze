@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/enemy.png</file>
+        <file>Images/healthPack.png</file>
+        <file>Images/Mario.jpg</file>
+        <file>Images/rough_tile.png</file>
+        <file>Images/sandy_tile.jpg</file>
+        <file>Images/Smooth_tile1.png</file>
+        <file>Images/water.jpg</file>
+        <file>Images/worldmap.png</file>
+        <file>Images/xenemy.png</file>
+        <file>Images/worldmap41.png</file>
+        <file>Images/worldmap4.png</file>
+        <file>Images/worldmap42.png</file>
+        <file>Images/brick.jpg</file>
+    </qresource>
+</RCC>
